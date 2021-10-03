@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+textarea {
+  columns: 10;
+  width: 100%;
+}
+
